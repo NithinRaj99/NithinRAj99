@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithin Raj V V</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Springbot, React, Hibernate**
+-  Visit my portfolio website to now more [click](nithinrajvv.netlify.app)
+  
+- 🌱 I’m currently learning **Spring boot, React, Hibernate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NithinRaj99](https://github.com/NithinRaj99)
 
