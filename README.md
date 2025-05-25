@@ -3,7 +3,7 @@
 
 -  Visit my portfolio website to now more https://nithinrajvv.netlify.app/
   
-- 🌱 I’m currently learning **Spring boot, React, Hibernate**
+- 🌱 I’m currently learning **Spring boot, React, Hibernate, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NithinRaj99](https://github.com/NithinRaj99)
 
